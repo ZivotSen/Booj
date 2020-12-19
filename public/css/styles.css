@@ -1,0 +1,27 @@
+.header {
+    background-color: #0B1C5A;
+    color: #FFF;
+    padding: 20px;
+}
+
+.laravel-image {
+    max-width: 110px;
+    width: 100%;
+    height: 100%;
+}
+
+.text-title {
+    color: #0B1C5A;
+    font-weight: 600;
+}
+.text-description {
+    color: #0B1C5A;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.footer {
+    background-color: #1A202C;
+    color: #FFF;
+    padding: 20px;
+}
